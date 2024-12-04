@@ -17,4 +17,4 @@ This script runs a backend launching a website that allows you to upload anythin
 ## Issues
 Contact me via <a href="mailto:support@starlover.online">support@starlover.online</a> in a case of any issues with an image and explanation
 
-Note: for reddit use, it sends titles and descriptions if there is no picture/gif media available (and with), buttons to view posts and there is no suppport for videos from reddit yet **yet**, everything on upload is supported.
+**Note:** For Reddit usage, the script sends titles and descriptions if no picture or GIF media is available. It includes buttons to view posts. Currently, there is no support for videos from Reddit. All types of uploads are supported.
