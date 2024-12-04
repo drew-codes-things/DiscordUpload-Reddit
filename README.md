@@ -1,5 +1,5 @@
 # File uploader/subreddit media sender to Discord webhook 
-This script runs a backend launching a website that allows you to upload anything to discord via a webhook and automates reddit sending to the Discord webhook, all you need to do is type the subreddit name.
+This script sets up a backend service that launches a website. The website allows users to upload files to Discord using a webhook. Also, it automates the process of sending posts from specified subreddits to the Discord webhook. The users simply need to enter the name of the subreddit.
 
 ## Requirements 
 - pip installations in the requirements.txt
