@@ -3,7 +3,7 @@ This script runs a backend launching a website that allows you to upload anythin
 
 ## Requirements 
 - pip installations in the requirements.txt
-- Python 3.8.x+ (use ``py --version`` to check)
+- Python 3.8.x+ (use ``python --version`` to check)
 
 ## How to use 
 1. Open your command line
