@@ -1,4 +1,4 @@
-import os, time, threading, sys, json, logging, requests, praw, requests
+import os, time, threading, sys, json, logging, requests, praw
 from flask import Flask, render_template, request, jsonify
 from werkzeug.utils import secure_filename
 from requests.exceptions import RequestException
