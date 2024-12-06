@@ -11,7 +11,7 @@ This script sets up a backend service that launches a website. The website allow
 3. Run ``pip install -r requirements.txt``
 4. Once complete, fill in your .env using [this](https://www.reddit.com/prefs/apps)
 5. Choose the script use as an option and return to stage 4 until .env is fullfilled
-6. Use either ``python backend.py`` to start the backend
+6. Use ``python backend.py`` to start the backend
 7. In the terminal it will give you two websites to visit and you will use that (the frontend)
 
 ## Issues
