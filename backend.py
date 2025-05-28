@@ -296,7 +296,7 @@ if __name__ == '__main__':
     
     logger = setup_logging()
     
-    logger.info("NOTE: Coded by Starlover")
+    logger.info("NOTE: Coded by Drew")
     logger.info("Ready")
     logger.info("WEBSITE: http://localhost:1432 or http://127.0.0.1:1432")
     
